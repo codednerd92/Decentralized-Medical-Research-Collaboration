@@ -11,3 +11,7 @@ K
 contracts/data-sharing.clar,2/7/2749b888d2df45dd664d3179a481b4d7ab3a8dee
 J
 tests/data-sharing.test.ts,8/a/8a68a881abc97a610cc075ffeac0d5dfea287716
+W
+'contracts/institution-verification.clar,d/d/dd6f29d581e4fc80d30e9eb12d64363ad190bf89
+V
+&tests/institution-verification.test.ts,5/e/5edadce64a6eee8f2384257efbac2d5b1f7dd860
