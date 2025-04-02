@@ -15,3 +15,7 @@ W
 'contracts/institution-verification.clar,d/d/dd6f29d581e4fc80d30e9eb12d64363ad190bf89
 V
 &tests/institution-verification.test.ts,5/e/5edadce64a6eee8f2384257efbac2d5b1f7dd860
+T
+$contracts/intellectual-property.clar,c/8/c8615f0a94add043c86f29f79dd3df625c091711
+S
+#tests/intellectual-property.test.ts,4/f/4f41af2f86c4dc54d7e82d763bc12be2df2020a2
